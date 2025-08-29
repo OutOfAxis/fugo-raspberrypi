@@ -1,0 +1,28 @@
+{
+  "os_list": [
+    {
+      "name": "Fugo One",
+      "description": "Fugo One is an all-in-one solution to power all of your Digital Signage needs. It comes bundled with our Fugo Player, which turns screens into powerful messengers with Fugo's user-friendly platform for streamlining design, deployment, and updates.",
+      "url": "https://fugo.ai/compressed/os.img.xz",
+      "icon": "https://www.fugo.ai/static/fugo-logo-light-72062566c947f61c44236f1e70bf0bd6.svg",
+      "website": "https://fugo.ai",
+      "release_date": "2025-08-29",
+      "extract_size": 4294967296,
+      "extract_sha256": "ef1c726f03b91d81d432646c304b52d546814dec2acf173b2d218db259e8e52f",
+      "image_download_size": 1073741824,
+      "image_download_sha256": "863848ed058779d4603009e63d221b532549df1c58290c6a035bb5217922dac1",
+      "devices": [
+        "pi5-64bit",
+        "pi5-32bit",
+        "pi4-64bit",
+        "pi4-32bit",
+        "pi3-64bit",
+        "pi3-32bit",
+        "pi2-64bit",
+        "pi2-32bit"
+      ],
+      "init_format": "systemd",
+      "architecture": "arm64"
+    }
+  ]
+}
